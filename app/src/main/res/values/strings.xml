@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mutiara Tiga Berlian</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_produk">Product</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_user">User</string>
+    <string name="BASE_URL">http://kreditcepat.destinyconsultant.tech/</string>
+    <string name="akte_pendirian">Akte Notaris Hj. Nurmiati,SH No. 19 Tgl 11 Desember 2009. Disahkan oleh Departemen Hukum&amp;HAM No. AHU-01596.AH.01.01 Tahun 2010. Tgl 13-01-2010</string>
+    <string name="surat_domisili">02.1.824/.1/10 tanggal 18-02-2010</string>
+    <string name="siup">2691/13-1.824.51 tanggal 10-02-2010</string>
+    <string name="npwp">31.156.781.2-002.000 </string>
+    <string name="pkp">PEM-00445/WPJ.20/KP.0203/2010 tanggal 05-03-2010</string>
+    <string name="api_u">090600710-P tanggal 25-03-2010</string>
+    <string name="npik">1.09.06.07.91961 tanggal 12-05-2011</string>
+    <string name="bank_account1">Bank Mandiri Cabang D.I Panjaitan</string>
+    <string name="bank_account2">A/N: PT. Mutiara Tiga Berlian\nA/C No: 166-0000353839</string>
+    <string name="koneksi_gagal">Koneksi Gagal !!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_first">Untuk mekakukan order produk </string>
+    <string name="order_back"> silahkan anda isi formulir dibawah ini dengan lengkap. Kami akan memproses order anda maksimum 1x24 jam dan kami akan mengkonfirmasi order anda berupa informasi pembayaran maupun biaya ongkos kirim melalui sms kepada anda.</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="kategori_produk">
+        <item>All Product</item>
+        <item>CNC automatic butt fusion welding machine</item>
+        <item>Semi-auto butt-fusion welding machine</item>
+        <item>Manual welding machine</item>
+        <item>Workshop fitting machine</item>
+        <item>Multi angle band saw</item>
+        <item>Saddle fusion machine</item>
+        <item>Saddle radius band saw</item>
+        <item>Electrofusion welding machine</item>
+        <item>Drainage welding machine</item>
+        <item>Vertical welder</item>
+        <item>Fitting HDPE</item>
+    </string-array>
+</resources>
